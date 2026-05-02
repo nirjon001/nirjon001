@@ -1,12 +1,7 @@
-# 👋 Hey there, I'm [Your Name]
+# 👋 Hey there, I'm [Nirjon]
 
 I'm a 3rd-year student at **EWU University** who turns caffeine into code. I love building tools that make real-world tasks easier, from managing medical inventory to streamlining student mess bills.
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter?style=social)](https://twitter.com/your-twitter)
-*(Tip: Replace the links with your own or delete these lines if you don't have them yet)*
-
----
 
 ### ⚙️ My Dev Toolbox
 
