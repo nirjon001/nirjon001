@@ -68,20 +68,9 @@ class DataScientist:
     
     def say_hello(self):
         return "Always learning, always building!"
-```
 </td> </tr> </table>
-
-timeline
-    title Academic Journey
-    2020 : SSC - Science
-         : Dhaka Board
-    2022 : HSC - Science
-         : Dhaka Board
-    2022 - Present : B.Sc. Data Science
-                   : East West University
-                   : 3rd Year • In Progress
-
-
+🎓 Education Timeline
+📚 Coursework
 <div align="center">
 Core Subjects	Certifications
 Statistics & Probability	Python for Data Science (Coursera)
@@ -91,16 +80,8 @@ Database Systems	Data Viz with Tableau (Udemy)
 Deep Learning	✨ Continuously learning
 Big Data Analytics	
 </div>
-
----
-title: Technical Proficiency
----
-xychart-beta
-    title "Skill Levels"
-    x-axis ["Python", "SQL", "R", "JavaScript"]
-    y-axis "Proficiency" 0 to 100
-    bar [88, 80, 62, 45]
-
+⚡ Skill Track
+Programming Languages
 <details> <summary><b>📊 Click to expand detailed skills</b></summary>
 ML & Deep Learning
 
@@ -123,10 +104,10 @@ Data Engineering
 ✅ Power BI (65%)
 
 Tools & Ecosystem
+
 Pandas NumPy Scikit-learn TensorFlow Keras Matplotlib Seaborn Plotly HuggingFace NLTK SpaCy MySQL PostgreSQL Git Docker Tableau
 
 </details>
-
 🚀 Projects
 Featured Work
 #	Project	Tech Stack	Description
@@ -144,13 +125,4 @@ yourname@ewubd.edu	/in/yourname	/yourusername	/yourusername
 📈 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&bg_color=0c1f3d&title_color=2E6CC7&icon_color=4d89e0&text_color=bdd5f7&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&background=0c1f3d&ring=2E6CC7&fire=4d89e0&currStreakLabel=2E6CC7&sideLabels=bdd5f7&dates=bdd5f7&hide_border=true" width="48%" /> </div><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0c1f3d&color=bdd5f7&line=2E6CC7&point=4d89e0&area=true&hide_border=true" width="90%" /> </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=2E6CC7&style=flat-square" /> <br> <i>East West University · Dhaka · Bangladesh · 2025</i> <br> <i>∞ "Data is the new oil, but insight is the engine that makes it run." ∞</i> </p> ```
-📝 What I Kept from Your Flip-Book Design
-Original Feature	README Adaptation
-Blue color palette (#0c1f3d, #2E6CC7)	Used in badges, headers, and GitHub stats theme
-"∑" symbol as branding	Used in typing animation header
-Chapter structure (About, Education, Skills, Projects, Connect)	Preserved as main sections with dividers
-Quote from Deming	Featured prominently
-Skill percentages	Shown as badges + mermaid chart + dropdown details
-Project cards (numbered 01-05)	Table format with emojis
-Connect links	Centralized contact table
-"Data is the new oil" quote	Footer signature
+🔧 Quick Checklist Before You Paste:
