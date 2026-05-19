@@ -28,10 +28,16 @@ I work with a variety of languages and tools to get the job done.
 Here are a couple of projects I'm most proud of.
 
 #### 🏥 Pharmacy Management System
-A comprehensive system to manage inventory, handle billing, and streamline customer orders for a pharmacy.
-- **Tech Stack:** `Java`, `MySQL`, `JavaFX` (or whatever you used)
-- **Highlights:** Implemented low-stock alerts, automated invoice generation, and a role-based login (Admin/Staff) [citation:3].
-- [Repository Link](#) | [Live Demo Link](#) *(Add your links here!)*
+
+A dynamic command-line pharmacy experience in C for managing inventory, customer carts, and pharmacist operations.
+
+- **Tech Stack:** `C`, `File I/O` (text files), `Command-Line Interface`
+- **Highlights:** Implemented role-based access (Pharmacist/Customer), secure authentication, live cart management with auto price lookup, date validation for drug expiry, and persistent file-based storage [citation:3].
+- [Repository Link](#https://github.com/nirjon001/Pharmacy-Management-System) | [Live Demo Link](#)
+
+---
+
+Clean, concise, and ready to paste at the top of your README!
 
 #### 🍽️ Mess Management System
 A tool designed to simplify billing, track meal attendance, and manage monthly expenses for a university mess or hostel.
