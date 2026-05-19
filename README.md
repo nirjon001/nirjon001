@@ -33,7 +33,7 @@ A dynamic command-line pharmacy experience in C for managing inventory, customer
 
 - **Tech Stack:** `C`, `File I/O` (text files), `Command-Line Interface`
 - **Highlights:** Implemented role-based access (Pharmacist/Customer), secure authentication, live cart management with auto price lookup, date validation for drug expiry, and persistent file-based storage [citation:3].
-- [Repository Link](#https://github.com/nirjon001/Pharmacy-Management-System) | [Live Demo Link](#)
+- [Repository Link](https://github.com/nirjon001/Pharmacy-Management-System) | [Live Demo Link](#)
 
 ---
 
