@@ -43,7 +43,7 @@ Clean, concise, and ready to paste at the top of your README!
 A tool designed to simplify billing, track meal attendance, and manage monthly expenses for a university mess or hostel.
 - **Tech Stack:** `Python`, `Django`, `SQLite`
 - **Highlights:** Features a dynamic dashboard for expense tracking, automated monthly bill generation, and a notification system for due payments.
-- [Repository Link](#) | [Live Demo Link](#)
+- [Repository Link](https://github.com/nirjon001/mess-management-system) | [Live Demo Link](#)
 
 *(You can add more projects by copying the block above!)*
 
