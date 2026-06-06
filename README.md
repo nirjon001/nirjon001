@@ -54,7 +54,7 @@ A tool designed to simplify billing, track meal attendance, and manage monthly e
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nirjon001&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 ---
 
