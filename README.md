@@ -1,17 +1,18 @@
-# 👋 Hey there, I'm [Nirjon]
+# 👋 Hey there, I'm Nirjon
 
-I'm a 3rd-year student at **EWU University** who turns caffeine into code. I love building tools that make real-world tasks easier, from managing medical inventory to streamlining student mess bills.
-
+I'm a 3rd-year student at **East West University (EWU)** who turns caffeine into code. I love
+building tools that make real-world tasks easier - from analyzing health data to managing
+hostel life for hundreds of students.
 
 ### ⚙️ My Dev Toolbox
 
 I work with a variety of languages and tools to get the job done.
 
 **Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -23,36 +24,39 @@ I work with a variety of languages and tools to get the job done.
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects (9th Semester)
 
-Here are a couple of projects I'm most proud of.
+Here are the projects I'm most proud of from this semester.
 
-#### 🏥 Pharmacy Management System
+#### 🩺 Heart Disease Risk Analysis — CSE303 (Statistics for Data Science)
 
-A dynamic command-line pharmacy experience in C for managing inventory, customer carts, and pharmacist operations.
+A complete data-science project: exploratory analysis + predictive modeling on the Heart
+Disease Risk 2026 dataset (9000 patients, 27 columns).
 
-- **Tech Stack:** `C`, `File I/O` (text files), `Command-Line Interface`
-- **Highlights:** Implemented role-based access (Pharmacist/Customer), secure authentication, live cart management with auto price lookup, date validation for drug expiry, and persistent file-based storage [citation:3].
-- [Repository Link](https://github.com/nirjon001/Pharmacy-Management-System) | [Live Demo Link](#)
+- **Tech Stack:** `Python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
+- **Highlights:** All 8 parts (description, central tendency, distributions, categorical
+  analysis, relationships, data quality, insights, modeling). Linear regression done by
+  hand (normal equation) **and** with sklearn - results match exactly. Logistic regression
+  reached ROC-AUC 0.95.
+- **Instructor feedback:** completed and positively reviewed.
+- [Repository Link](https://github.com/nirjon001/CSE303-Heart-Disease-EDA-Modeling)
 
----
+#### 🏨 Hostel Management System — CSE347 (Information System Analysis & Design)
 
-Clean, concise, and ready to paste at the top of your README!
+A full role-based hostel management web app - managers, staff, and students - with
+geo-fenced attendance, invoicing, and analytics.
 
-#### 🍽️ Mess Management System
-A tool designed to simplify billing, track meal attendance, and manage monthly expenses for a university mess or hostel.
-- **Tech Stack:** `Python`, `Django`, `SQLite`
-- **Highlights:** Features a dynamic dashboard for expense tracking, automated monthly bill generation, and a notification system for due payments.
-- [Repository Link](https://github.com/nirjon001/mess-management-system) | [Live Demo Link](#)
-
-*(You can add more projects by copying the block above!)*
+- **Tech Stack:** `Python`, `Flask`, `MySQL`, `Chart.js`, vanilla JS
+- **Highlights:** 18-table database with triggers, geo-fenced GPS attendance, automated
+  invoice generation, AJAX in-place updates, full responsive design.
+- **Live demo:** https://hostel-management-368b.onrender.com/
+- [Repository Link](https://github.com/nirjon001/CSE347_project) | [Live Demo](https://hostel-management-368b.onrender.com/)
 
 ---
 
 ### 📈 GitHub Stats
-*(This part is dynamic and will update automatically!) Dive into this section and see what you can pull from it!)*
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nirjon001&show_icons=true&theme=radical)
+![Nirjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirjon001&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirjon001&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=nirjon001&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
@@ -63,4 +67,4 @@ A tool designed to simplify billing, track meal attendance, and manage monthly e
 I'm always open to collaborating on interesting projects or just having a chat about tech.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nirjonmy10@gmail.com)
