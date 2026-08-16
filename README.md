@@ -52,6 +52,29 @@ geo-fenced attendance, invoicing, and analytics.
 - **Live demo:** https://hostel-management-368b.onrender.com/
 - [Repository Link](https://github.com/nirjon001/CSE347_project) | [Live Demo](https://hostel-management-368b.onrender.com/)
 
+### 🌟 More Projects
+
+#### 🏥 Pharmacy Management System
+
+A dynamic command-line pharmacy experience in C for managing inventory, customer carts, and
+pharmacist operations.
+
+- **Tech Stack:** `C`, File I/O (text files), Command-Line Interface
+- **Highlights:** Role-based access (Pharmacist/Customer), secure authentication, live cart
+  management with auto price lookup, date validation for drug expiry, persistent file-based
+  storage.
+- [Repository Link](https://github.com/nirjon001/Pharmacy-Management-System)
+
+#### 🍽️ Mess Management System
+
+A tool designed to simplify billing, track meal attendance, and manage monthly expenses for
+a university mess or hostel.
+
+- **Tech Stack:** `Python`, `Django`, `SQLite`
+- **Highlights:** Dynamic dashboard for expense tracking, automated monthly bill generation,
+  and a notification system for due payments.
+- [Repository Link](https://github.com/nirjon001/mess-management-system)
+
 ---
 
 ### 📈 GitHub Stats
