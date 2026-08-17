@@ -79,11 +79,13 @@ a university mess or hostel.
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nirjon001&theme=dark&hide_border=true&short_numbers=true" /></a>
-  <img src="https://github-readme-stats.shion.dev/api?username=nirjon001&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nirjon001&layout=compact&theme=radical" />
-</div>
+<table>
+  <tr>
+    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nirjon001&theme=dark&hide_border=true&short_numbers=true&card_width=340" /></a></td>
+    <td><img src="https://github-readme-stats.shion.dev/api?username=nirjon001&show_icons=true&theme=radical&card_width=340" /></td>
+    <td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nirjon001&layout=compact&theme=radical&card_width=340" /></td>
+  </tr>
+</table>
 
 ---
 
