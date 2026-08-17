@@ -56,6 +56,23 @@ geo-fenced attendance, invoicing, and analytics.
 
 </details>
 
+
+<details>
+<summary><strong>6th Semester</strong> 🗄️</summary>
+<br>
+
+#### 🍽️ Mess Management System — CSE302 (Database)
+
+A tool designed to simplify billing, track meal attendance, and manage monthly expenses for
+a university mess or hostel.
+
+- **Tech Stack:** `Python`, `Django`, `SQLite`
+- **Highlights:** Dynamic dashboard for expense tracking, automated monthly bill generation,
+  and a notification system for due payments.
+- [Repository Link](https://github.com/nirjon001/mess-management-system)
+
+</details>
+
 <details>
 <summary><strong>1st Semester</strong> 🌱</summary>
 <br>
@@ -73,21 +90,6 @@ pharmacist operations.
 
 </details>
 
-<details>
-<summary><strong>6th Semester</strong> 🗄️</summary>
-<br>
-
-#### 🍽️ Mess Management System — CSE302 (Database)
-
-A tool designed to simplify billing, track meal attendance, and manage monthly expenses for
-a university mess or hostel.
-
-- **Tech Stack:** `Python`, `Django`, `SQLite`
-- **Highlights:** Dynamic dashboard for expense tracking, automated monthly bill generation,
-  and a notification system for due payments.
-- [Repository Link](https://github.com/nirjon001/mess-management-system)
-
-</details>
 
 ---
 
