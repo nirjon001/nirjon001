@@ -77,8 +77,10 @@ a university mess or hostel.
 
 ---
 
-### 📈 GitHub Streak
+### 📈 GitHub Stats
 
+![Nirjon's GitHub stats](https://github-readme-stats.shion.dev/api?username=nirjon001&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=nirjon001&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=nirjon001&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 ---
