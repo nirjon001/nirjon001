@@ -48,7 +48,7 @@ Disease Risk 2026 dataset (9000 patients, 27 columns).
 A full role-based hostel management web app - managers, staff, and students - with
 geo-fenced attendance, invoicing, and analytics.
 
-- **Tech Stack:** `Python`, `Flask`, `MySQL`, `Chart.js`, vanilla JS
+- **Tech Stack:** `Python`, `Flask`, `MySQL`, `Chart.js`, `vanilla JS`
 - **Highlights:** 18-table database with triggers, geo-fenced GPS attendance, automated
   invoice generation, AJAX in-place updates, full responsive design.
 - **Live demo:** https://hostel-management-368b.onrender.com/
@@ -66,7 +66,7 @@ geo-fenced attendance, invoicing, and analytics.
 A tool designed to simplify billing, track meal attendance, and manage monthly expenses for
 a university mess or hostel.
 
-- **Tech Stack:** `Python`, `Django`, `SQLite`
+- **Tech Stack:** `Python`, `Django`, `MySQL`
 - **Highlights:** Dynamic dashboard for expense tracking, automated monthly bill generation,
   and a notification system for due payments.
 - [Repository Link](https://github.com/nirjon001/mess-management-system)
