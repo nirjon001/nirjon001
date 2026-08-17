@@ -24,9 +24,11 @@ I work with a variety of languages and tools to get the job done.
 
 ---
 
-### 🚀 Featured Projects (9th Semester)
+### 🚀 Featured Projects
 
-Here are the projects I'm most proud of from this semester.
+<details open>
+<summary><strong>9th Semester</strong> 🎓</summary>
+<br>
 
 #### 🩺 Heart Disease Risk Analysis — CSE303 (Statistics for Data Science)
 
@@ -52,9 +54,13 @@ geo-fenced attendance, invoicing, and analytics.
 - **Live demo:** https://hostel-management-368b.onrender.com/
 - [Repository Link](https://github.com/nirjon001/CSE347_project) | [Live Demo](https://hostel-management-368b.onrender.com/)
 
-### 🌟 More Projects
+</details>
 
-#### 🏥 Pharmacy Management System
+<details>
+<summary><strong>1st Semester</strong> 🌱</summary>
+<br>
+
+#### 🏥 Pharmacy Management System — CSE103 (Structured Programming)
 
 A dynamic command-line pharmacy experience in C for managing inventory, customer carts, and
 pharmacist operations.
@@ -65,7 +71,13 @@ pharmacist operations.
   storage.
 - [Repository Link](https://github.com/nirjon001/Pharmacy-Management-System)
 
-#### 🍽️ Mess Management System
+</details>
+
+<details>
+<summary><strong>6th Semester</strong> 🗄️</summary>
+<br>
+
+#### 🍽️ Mess Management System — CSE302 (Database)
 
 A tool designed to simplify billing, track meal attendance, and manage monthly expenses for
 a university mess or hostel.
@@ -74,6 +86,8 @@ a university mess or hostel.
 - **Highlights:** Dynamic dashboard for expense tracking, automated monthly bill generation,
   and a notification system for due payments.
 - [Repository Link](https://github.com/nirjon001/mess-management-system)
+
+</details>
 
 ---
 
