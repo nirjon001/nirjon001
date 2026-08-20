@@ -30,7 +30,9 @@ I work with a variety of languages and tools to get the job done.
 <summary><strong>9th Semester</strong> 🎓</summary>
 <br>
 
-<div align="center"><h3 style="display:inline-block;margin:0 0 6px;padding:6px 16px;border-radius:8px;background:linear-gradient(135deg,#667eea,#764ba2);color:#ffffff;">🩺 Heart Disease Risk Analysis — CSE303 <sub>(Statistics for Data Science)</sub></h3></div>
+<table>
+<tr><td align="center" style="background-color:#667eea;color:#ffffff;"><strong>1 · 🩺 Heart Disease Risk Analysis — CSE303 (Statistics for Data Science)</strong></td></tr>
+<tr><td>
 
 A complete data-science project: exploratory analysis + predictive modeling on the Heart
 Disease Risk 2026 dataset (9000 patients, 27 columns).
@@ -43,7 +45,12 @@ Disease Risk 2026 dataset (9000 patients, 27 columns).
 - **Instructor feedback:** completed and positively reviewed.
 - [Repository Link](https://github.com/nirjon001/CSE303-Heart-Disease-EDA-Modeling)
 
-<div align="center"><h3 style="display:inline-block;margin:0 0 6px;padding:6px 16px;border-radius:8px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#ffffff;">🏨 Hostel Management System — CSE347 <sub>(Information System Analysis &amp; Design)</sub></h3></div>
+</td></tr>
+</table>
+
+<table>
+<tr><td align="center" style="background-color:#f093fb;color:#ffffff;"><strong>2 · 🏨 Hostel Management System — CSE347 (Information System Analysis &amp; Design)</strong></td></tr>
+<tr><td>
 
 A full role-based hostel management web app - managers, staff, and students - with
 geo-fenced attendance, invoicing, and analytics.
@@ -54,7 +61,12 @@ geo-fenced attendance, invoicing, and analytics.
 - **Live demo:** https://hostel-management-368b.onrender.com/
 - [Repository Link](https://github.com/nirjon001/CSE347_project) | [Live Demo](https://hostel-management-368b.onrender.com/)
 
-<div align="center"><h3 style="display:inline-block;margin:0 0 6px;padding:6px 16px;border-radius:8px;background:linear-gradient(135deg,#5ee7df,#b490ca);color:#123030;">🌐 Enterprise Network Design — CSE405 <sub>(Computer Networks)</sub></h3></div>
+</td></tr>
+</table>
+
+<table>
+<tr><td align="center" style="background-color:#5ee7df;color:#123030;"><strong>3 · 🌐 Enterprise Network Design — CSE405 (Computer Networks)</strong></td></tr>
+<tr><td>
 
 Design & deployment of a two-building enterprise network for MetroCare Healthcare Ltd. in
 Cisco Packet Tracer, with VLSM addressing, RIP v2, and centralized services.
@@ -65,6 +77,9 @@ Cisco Packet Tracer, with VLSM addressing, RIP v2, and centralized services.
   end-to-end verification (ping, DHCP, DNS, email send/receive, NAT translations, RIP tables).
 - [Repository Link](https://github.com/nirjon001/CSE405-Computer-Network-Project)
 
+</td></tr>
+</table>
+
 </details>
 
 
@@ -72,7 +87,9 @@ Cisco Packet Tracer, with VLSM addressing, RIP v2, and centralized services.
 <summary><strong>6th Semester</strong> 🗄️</summary>
 <br>
 
-<div align="center"><h3 style="display:inline-block;margin:0 0 6px;padding:6px 16px;border-radius:8px;background:linear-gradient(135deg,#43e97b,#38f9d7);color:#0b3b2e;">🍽️ Mess Management System — CSE302 <sub>(Database)</sub></h3></div>
+<table>
+<tr><td align="center" style="background-color:#43e97b;color:#0b3b2e;"><strong>4 · 🍽️ Mess Management System — CSE302 (Database)</strong></td></tr>
+<tr><td>
 
 A tool designed to simplify billing, track meal attendance, and manage monthly expenses for
 a university mess or hostel.
@@ -82,13 +99,18 @@ a university mess or hostel.
   and a notification system for due payments.
 - [Repository Link](https://github.com/nirjon001/mess-management-system)
 
+</td></tr>
+</table>
+
 </details>
 
 <details>
 <summary><strong>1st Semester</strong> 🌱</summary>
 <br>
 
-<div align="center"><h3 style="display:inline-block;margin:0 0 6px;padding:6px 16px;border-radius:8px;background:linear-gradient(135deg,#fa709a,#fee140);color:#3b0b1e;">🏥 Pharmacy Management System — CSE103 <sub>(Structured Programming)</sub></h3></div>
+<table>
+<tr><td align="center" style="background-color:#fa709a;color:#ffffff;"><strong>5 · 🏥 Pharmacy Management System — CSE103 (Structured Programming)</strong></td></tr>
+<tr><td>
 
 A dynamic command-line pharmacy experience in C for managing inventory, customer carts, and
 pharmacist operations.
@@ -98,6 +120,9 @@ pharmacist operations.
   management with auto price lookup, date validation for drug expiry, persistent file-based
   storage.
 - [Repository Link](https://github.com/nirjon001/Pharmacy-Management-System)
+
+</td></tr>
+</table>
 
 </details>
 
