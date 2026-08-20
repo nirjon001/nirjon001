@@ -30,7 +30,7 @@ I work with a variety of languages and tools to get the job done.
 <summary><strong>9th Semester</strong> 🎓</summary>
 <br>
 
-#### 🩺 Heart Disease Risk Analysis — CSE303 (Statistics for Data Science)
+<div align="center"><h3 style="display:inline-block;margin:0 0 6px;padding:6px 16px;border-radius:8px;background:linear-gradient(135deg,#667eea,#764ba2);color:#ffffff;">🩺 Heart Disease Risk Analysis — CSE303 <sub>(Statistics for Data Science)</sub></h3></div>
 
 A complete data-science project: exploratory analysis + predictive modeling on the Heart
 Disease Risk 2026 dataset (9000 patients, 27 columns).
@@ -43,7 +43,7 @@ Disease Risk 2026 dataset (9000 patients, 27 columns).
 - **Instructor feedback:** completed and positively reviewed.
 - [Repository Link](https://github.com/nirjon001/CSE303-Heart-Disease-EDA-Modeling)
 
-#### 🏨 Hostel Management System — CSE347 (Information System Analysis & Design)
+<div align="center"><h3 style="display:inline-block;margin:0 0 6px;padding:6px 16px;border-radius:8px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#ffffff;">🏨 Hostel Management System — CSE347 <sub>(Information System Analysis &amp; Design)</sub></h3></div>
 
 A full role-based hostel management web app - managers, staff, and students - with
 geo-fenced attendance, invoicing, and analytics.
@@ -54,7 +54,7 @@ geo-fenced attendance, invoicing, and analytics.
 - **Live demo:** https://hostel-management-368b.onrender.com/
 - [Repository Link](https://github.com/nirjon001/CSE347_project) | [Live Demo](https://hostel-management-368b.onrender.com/)
 
-#### 🌐 Enterprise Network Design — CSE405 (Computer Networks)
+<div align="center"><h3 style="display:inline-block;margin:0 0 6px;padding:6px 16px;border-radius:8px;background:linear-gradient(135deg,#5ee7df,#b490ca);color:#123030;">🌐 Enterprise Network Design — CSE405 <sub>(Computer Networks)</sub></h3></div>
 
 Design & deployment of a two-building enterprise network for MetroCare Healthcare Ltd. in
 Cisco Packet Tracer, with VLSM addressing, RIP v2, and centralized services.
@@ -72,7 +72,7 @@ Cisco Packet Tracer, with VLSM addressing, RIP v2, and centralized services.
 <summary><strong>6th Semester</strong> 🗄️</summary>
 <br>
 
-#### 🍽️ Mess Management System — CSE302 (Database)
+<div align="center"><h3 style="display:inline-block;margin:0 0 6px;padding:6px 16px;border-radius:8px;background:linear-gradient(135deg,#43e97b,#38f9d7);color:#0b3b2e;">🍽️ Mess Management System — CSE302 <sub>(Database)</sub></h3></div>
 
 A tool designed to simplify billing, track meal attendance, and manage monthly expenses for
 a university mess or hostel.
@@ -88,7 +88,7 @@ a university mess or hostel.
 <summary><strong>1st Semester</strong> 🌱</summary>
 <br>
 
-#### 🏥 Pharmacy Management System — CSE103 (Structured Programming)
+<div align="center"><h3 style="display:inline-block;margin:0 0 6px;padding:6px 16px;border-radius:8px;background:linear-gradient(135deg,#fa709a,#fee140);color:#3b0b1e;">🏥 Pharmacy Management System — CSE103 <sub>(Structured Programming)</sub></h3></div>
 
 A dynamic command-line pharmacy experience in C for managing inventory, customer carts, and
 pharmacist operations.
