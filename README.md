@@ -88,7 +88,7 @@ a university mess or hostel.
 <summary><strong>1st Semester</strong> 🌱</summary>
 <br>
 
-[![1 🏥 Pharmacy Management System — CSE103](https://img.shields.io/badge/5%20%F0%9F%8F%A5%20Pharmacy%20Management%20System%20%E2%80%94%20CSE103-dc3545?style=for-the-badge)](https://github.com/nirjon001/Pharmacy-Management-System)
+[![1🏥 Pharmacy Management System — CSE103](https://img.shields.io/badge/5%20%F0%9F%8F%A5%20Pharmacy%20Management%20System%20%E2%80%94%20CSE103-dc3545?style=for-the-badge)](https://github.com/nirjon001/Pharmacy-Management-System)
 
 A dynamic command-line pharmacy experience in C for managing inventory, customer carts, and
 pharmacist operations.
