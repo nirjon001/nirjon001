@@ -30,9 +30,7 @@ I work with a variety of languages and tools to get the job done.
 <summary><strong>9th Semester</strong> 🎓</summary>
 <br>
 
-<table>
-<tr><td align="center" style="background-color:#667eea;color:#ffffff;"><strong>1 · 🩺 Heart Disease Risk Analysis — CSE303 (Statistics for Data Science)</strong></td></tr>
-<tr><td>
+[![1 🩺 Heart Disease Risk Analysis — CSE303](https://img.shields.io/badge/1%20%F0%9F%A9%BA%20Heart%20Disease%20Risk%20Analysis%20%E2%80%94%20CSE303-667eea?style=for-the-badge)](https://github.com/nirjon001/CSE303-Heart-Disease-EDA-Modeling)
 
 A complete data-science project: exploratory analysis + predictive modeling on the Heart
 Disease Risk 2026 dataset (9000 patients, 27 columns).
@@ -45,12 +43,7 @@ Disease Risk 2026 dataset (9000 patients, 27 columns).
 - **Instructor feedback:** completed and positively reviewed.
 - [Repository Link](https://github.com/nirjon001/CSE303-Heart-Disease-EDA-Modeling)
 
-</td></tr>
-</table>
-
-<table>
-<tr><td align="center" style="background-color:#f093fb;color:#ffffff;"><strong>2 · 🏨 Hostel Management System — CSE347 (Information System Analysis &amp; Design)</strong></td></tr>
-<tr><td>
+[![2 🏨 Hostel Management System — CSE347](https://img.shields.io/badge/2%20%F0%9F%8F%A8%20Hostel%20Management%20System%20%E2%80%94%20CSE347-f5576c?style=for-the-badge)](https://github.com/nirjon001/CSE347_project)
 
 A full role-based hostel management web app - managers, staff, and students - with
 geo-fenced attendance, invoicing, and analytics.
@@ -61,12 +54,7 @@ geo-fenced attendance, invoicing, and analytics.
 - **Live demo:** https://hostel-management-368b.onrender.com/
 - [Repository Link](https://github.com/nirjon001/CSE347_project) | [Live Demo](https://hostel-management-368b.onrender.com/)
 
-</td></tr>
-</table>
-
-<table>
-<tr><td align="center" style="background-color:#5ee7df;color:#123030;"><strong>3 · 🌐 Enterprise Network Design — CSE405 (Computer Networks)</strong></td></tr>
-<tr><td>
+[![3 🌐 Enterprise Network Design — CSE405](https://img.shields.io/badge/3%20%F0%9F%8C%90%20Enterprise%20Network%20Design%20%E2%80%94%20CSE405-0e8a86?style=for-the-badge)](https://github.com/nirjon001/CSE405-Computer-Network-Project)
 
 Design & deployment of a two-building enterprise network for MetroCare Healthcare Ltd. in
 Cisco Packet Tracer, with VLSM addressing, RIP v2, and centralized services.
@@ -77,9 +65,6 @@ Cisco Packet Tracer, with VLSM addressing, RIP v2, and centralized services.
   end-to-end verification (ping, DHCP, DNS, email send/receive, NAT translations, RIP tables).
 - [Repository Link](https://github.com/nirjon001/CSE405-Computer-Network-Project)
 
-</td></tr>
-</table>
-
 </details>
 
 
@@ -87,9 +72,7 @@ Cisco Packet Tracer, with VLSM addressing, RIP v2, and centralized services.
 <summary><strong>6th Semester</strong> 🗄️</summary>
 <br>
 
-<table>
-<tr><td align="center" style="background-color:#43e97b;color:#0b3b2e;"><strong>4 · 🍽️ Mess Management System — CSE302 (Database)</strong></td></tr>
-<tr><td>
+[![4 🍽️ Mess Management System — CSE302](https://img.shields.io/badge/4%20%F0%9F%8D%BD%EF%B8%8F%20Mess%20Management%20System%20%E2%80%94%20CSE302-2e8b57?style=for-the-badge)](https://github.com/nirjon001/mess-management-system)
 
 A tool designed to simplify billing, track meal attendance, and manage monthly expenses for
 a university mess or hostel.
@@ -99,18 +82,13 @@ a university mess or hostel.
   and a notification system for due payments.
 - [Repository Link](https://github.com/nirjon001/mess-management-system)
 
-</td></tr>
-</table>
-
 </details>
 
 <details>
 <summary><strong>1st Semester</strong> 🌱</summary>
 <br>
 
-<table>
-<tr><td align="center" style="background-color:#fa709a;color:#ffffff;"><strong>5 · 🏥 Pharmacy Management System — CSE103 (Structured Programming)</strong></td></tr>
-<tr><td>
+[![5 🏥 Pharmacy Management System — CSE103](https://img.shields.io/badge/5%20%F0%9F%8F%A5%20Pharmacy%20Management%20System%20%E2%80%94%20CSE103-dc3545?style=for-the-badge)](https://github.com/nirjon001/Pharmacy-Management-System)
 
 A dynamic command-line pharmacy experience in C for managing inventory, customer carts, and
 pharmacist operations.
@@ -120,9 +98,6 @@ pharmacist operations.
   management with auto price lookup, date validation for drug expiry, persistent file-based
   storage.
 - [Repository Link](https://github.com/nirjon001/Pharmacy-Management-System)
-
-</td></tr>
-</table>
 
 </details>
 
