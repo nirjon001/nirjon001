@@ -54,6 +54,17 @@ geo-fenced attendance, invoicing, and analytics.
 - **Live demo:** https://hostel-management-368b.onrender.com/
 - [Repository Link](https://github.com/nirjon001/CSE347_project) | [Live Demo](https://hostel-management-368b.onrender.com/)
 
+#### 🌐 Enterprise Network Design — CSE405 (Computer Networks)
+
+Design & deployment of a two-building enterprise network for MetroCare Healthcare Ltd. in
+Cisco Packet Tracer, with VLSM addressing, RIP v2, and centralized services.
+
+- **Tech Stack:** `Cisco Packet Tracer`, `VLSM`, `RIPv2`, `DHCP`, `DNS`, `NAT/PAT`, `SMTP/POP3`
+- **Highlights:** VLSM subnetting of 172.20.0.0/22, two Cisco 2811 routers over a serial WAN
+  link, centralized DHCP/DNS/Email servers, NAT overload on the gateway router, and full
+  end-to-end verification (ping, DHCP, DNS, email send/receive, NAT translations, RIP tables).
+- [Repository Link](https://github.com/nirjon001/CSE405-Computer-Network-Project)
+
 </details>
 
 
