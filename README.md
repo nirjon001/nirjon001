@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Nirjon
 
-I'm a 3rd-year student at **East West University (EWU)** who turns caffeine into code. I love
+I'm a 4th-year student at **East West University (EWU)** who turns caffeine into code. I love
 building tools that make real-world tasks easier - from analyzing health data to managing
 hostel life for hundreds of students.
 
