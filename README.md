@@ -26,7 +26,7 @@ I work with a variety of languages and tools to get the job done.
 
 ### 🚀 Featured Projects
 
-<details open>
+<details>
 <summary><strong>9th Semester</strong> 🎓</summary>
 <br>
 
