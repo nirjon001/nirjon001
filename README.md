@@ -120,5 +120,5 @@ pharmacist operations.
 
 I'm always open to collaborating on interesting projects or just having a chat about tech.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ratul-hasan-nirjon-06a16337a/))
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nirjonmy10@gmail.com)
