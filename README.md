@@ -120,6 +120,6 @@ pharmacist operations.
 
 I'm always open to collaborating on interesting projects or just having a chat about tech.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ratul-hasan-nirjon-06a16337a/))
-[![Facebook](https://img.shields.io)]([https://facebook.com](https://www.facebook.com/nirjonratul01))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratul-hasan-nirjon-06a16337a/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/nirjonratul01)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nirjonmy10@gmail.com)
