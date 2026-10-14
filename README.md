@@ -69,6 +69,46 @@ Cisco Packet Tracer, with VLSM addressing, RIP v2, and centralized services.
 
 
 <details>
+<summary><strong>7th Semester</strong> 🧠</summary>
+<br>
+
+[![1 🧵 Exam Simulation — CSE325](https://img.shields.io/badge/1%20%F0%9F%A7%B5%20Exam%20Simulation%20%E2%80%94%20CSE325-6f42c1?style=for-the-badge)](https://github.com/nirjon001/CSE325-Exam-Simulation)
+
+A multithreaded C simulation of 300 students taking an exam in 10 rooms, using threads,
+mutexes, condition variables, and semaphores for safe, capacity-controlled concurrency.
+
+- **Tech Stack:** `C`, `pthreads`, POSIX semaphores, mutex & condition variables
+- **Highlights:** 300 student threads with round-robin room assignment; per-room semaphores
+  enforce a 30-seat capacity; exam start/end synchronised with condition variables; all shared
+  counters mutex-protected (no data races).
+- [Repository Link](https://github.com/nirjon001/CSE325-Exam-Simulation)
+
+[![2 🔌 Digital Logic Design — CSE345](https://img.shields.io/badge/2%20%F0%9F%94%8C%20Digital%20Logic%20Design%20%E2%80%94%20CSE345-d97706?style=for-the-badge)](https://github.com/nirjon001/CSE345-Digital-Logic-Design)
+
+Digital Logic Design coursework - the lab assignment and the final project: a 2-bit full
+adder built with multiplexers using the cascade method.
+
+- **Tech Stack:** `Digital Logic`, multiplexers (8:1 / 2:1), `AND`/`OR` gates, circuit simulation
+- **Highlights:** Derived the Sum1/Sum2/Carry truth tables and mapped them onto MUX inputs;
+  8:1 MUX for Sum1, 2:1 MUXes for Sum2 and carry; carry propagated LSB → MSB by cascading
+  two 1-bit adders; simulation output matched the truth table.
+- [Repository Link](https://github.com/nirjon001/CSE345-Digital-Logic-Design)
+
+[![3 🤖 NPC Behavioral Prediction — CSE366](https://img.shields.io/badge/3%20%F0%9F%A4%96%20NPC%20Behavioral%20Prediction%20%E2%80%94%20CSE366-2563eb?style=for-the-badge)](https://github.com/nirjon001/CSE366-NPC-Behavioral-Prediction)
+
+Research paper comparing nine machine-learning models for NPC action prediction, including a
+Genetic-Algorithm-optimized Neural Architecture Search (GA-NAS) network.
+
+- **Tech Stack:** `Python`, `TensorFlow/Keras`, `scikit-learn`, `pandas`, `NumPy`
+- **Highlights:** 80,000-record NPC behavioral dataset (9 features, 5 action classes);
+  GA-NAS and a fixed 128-64-24 network topped all metrics; Random Forest / Gradient Boosting
+  best among classical models; full ROC/PR analysis.
+- [Repository Link](https://github.com/nirjon001/CSE366-NPC-Behavioral-Prediction)
+
+</details>
+
+
+<details>
 <summary><strong>6th Semester</strong> 🗄️</summary>
 <br>
 
